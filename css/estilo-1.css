@@ -5,7 +5,7 @@
 
 body{
 
-background:url(/camarajuanmanuelgaspar/imagenes/fondo.jpg);
+background:url("../imagenes/fondo.jpg");
 background-repeat: repeat-y;
          background-position-x: center center;
          height: 100vw;
